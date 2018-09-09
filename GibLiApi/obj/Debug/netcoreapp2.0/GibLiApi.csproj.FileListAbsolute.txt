@@ -1,0 +1,10 @@
+E:\projects\personal\giblipurejs\GibLiApi\obj\Debug\netcoreapp2.0\GibLiApi.csproj.CoreCompileInputs.cache
+E:\projects\personal\giblipurejs\GibLiApi\obj\Debug\netcoreapp2.0\GibLiApi.AssemblyInfoInputs.cache
+E:\projects\personal\giblipurejs\GibLiApi\obj\Debug\netcoreapp2.0\GibLiApi.AssemblyInfo.cs
+E:\projects\personal\giblipurejs\GibLiApi\bin\Debug\netcoreapp2.0\GibLiApi.deps.json
+E:\projects\personal\giblipurejs\GibLiApi\bin\Debug\netcoreapp2.0\GibLiApi.runtimeconfig.json
+E:\projects\personal\giblipurejs\GibLiApi\bin\Debug\netcoreapp2.0\GibLiApi.runtimeconfig.dev.json
+E:\projects\personal\giblipurejs\GibLiApi\bin\Debug\netcoreapp2.0\GibLiApi.dll
+E:\projects\personal\giblipurejs\GibLiApi\bin\Debug\netcoreapp2.0\GibLiApi.pdb
+E:\projects\personal\giblipurejs\GibLiApi\obj\Debug\netcoreapp2.0\GibLiApi.dll
+E:\projects\personal\giblipurejs\GibLiApi\obj\Debug\netcoreapp2.0\GibLiApi.pdb
